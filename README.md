@@ -1,3 +1,12 @@
+Il s'agit du répertoire du projet Hidoop des étudiants suivants :
+- Cyril Figuin (HIDOOP)
+- Axelle Pagnier (HIDOOP)
+- Christopher James (HDFS)
+- Cédric Martin (HIDOOP)
+- Salma Mejbar (HDFS)
+tous étudiants du groupe L34.
+
+
 Ce répertoire correspond à l'arborescence de fichiers que doivent **impérativement**
 respecter vos rendus
 
