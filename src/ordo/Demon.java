@@ -1,1 +1,0 @@
-//Remplir la classe démon (implements worker)
